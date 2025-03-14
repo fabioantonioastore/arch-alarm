@@ -1,2 +1,5 @@
+from gui import create_gui
+
+
 if __name__ == "__main__":
-    pass
+    create_gui()
